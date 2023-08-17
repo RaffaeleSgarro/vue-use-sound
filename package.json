@@ -1,6 +1,6 @@
 {
   "name": "@raffaelesgarro/vue-use-sound",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "description": "🔊 A Vue composable for playing sound effects",
   "author": {
     "name": "Yaël GUILLOUX",
