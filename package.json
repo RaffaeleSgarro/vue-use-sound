@@ -1,5 +1,5 @@
 {
-  "name": "@vueuse/sound",
+  "name": "@raffaelesgarro/vue-use-sound",
   "version": "2.0.2",
   "description": "🔊 A Vue composable for playing sound effects",
   "author": {
